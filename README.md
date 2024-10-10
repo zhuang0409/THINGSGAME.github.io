@@ -1,7 +1,5 @@
 # THINGS GAME
-Computational Cognitive Neuroscience game
-
-Designer: Tonghe Zhuang
+THINGS GAME is a game of association, strategy, and group agreement. Players use cards representing various "Things" and must match or distinguish them based on similarity, as decided by the group.
 
 ## Description
 Welcome to "Things Game," a fun and unique board game created by Tonghe Zhuang, a postdoctoral researcher in computational cognitive neuroscience from Hebart's lab. Our lab focuses on understanding how we effortlessly recognize objects, people, and places in our complex visual world. To learn more about our research, you can visit our lab’s website: https://hebartlab.com/
