@@ -6,6 +6,6 @@ navigation:
   - title: Home
     url: /
   - title: How to play
-    url: /about.html
+    url: /game_rules.html
   - title: How to make
-    url: /contact.html
+    url: /hands_on.html
