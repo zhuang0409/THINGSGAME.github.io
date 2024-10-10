@@ -1,4 +1,4 @@
-# THINGSGAME.github.io
+# THINGS GAME
 Computational Cognitive Neuroscience game
 
 Designer: Tonghe Zhuang
