@@ -11,3 +11,4 @@ Initially, the game was designed for our PI's birthday in 2024. While searching 
 [Rules](https://github.com/zhuang0409/THINGSGAME.github.io/blob/a0e4d1defb26c6dbbd5d69ad562d6711794036ee/docs/rules)
 
 ## How to make
+[hands-on part](https://github.com/zhuang0409/THINGSGAME.github.io/blob/c2960938b12bfc0810afec6a9ad23c6797f4a584/docs/hands-made)
