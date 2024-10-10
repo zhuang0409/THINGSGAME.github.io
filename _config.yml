@@ -6,7 +6,7 @@ navigation:
   - title: Home
     url: /
   - title: How to Play
-    url: /game_rules.html
+    url: /docs/game_rules.html
   - title: How to Make
-    url: /hands_on.html
+    url: /docs/hands_on.html
 
