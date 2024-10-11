@@ -6,7 +6,10 @@ navigation:
   - title: Home
     url: /
   - title: How to Play
-    url: /THINGSGAME.github.io/blob/main/game_rules.html
+    url: /how-to-play/  # Change to the correct path for your How to Play page
   - title: How to Make
-    url: /THINGSGAME.github.io/blob/main/hands_on.html
+    url: /how-to-make/  # Change to the correct path for your How to Make page
+  - title: Game Components
+    url: /game-components/  # This should point to your Game Components page
+
 
