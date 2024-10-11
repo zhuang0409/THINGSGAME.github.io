@@ -3,7 +3,7 @@ layout: default
 title: Game Rules
 ---
 
-<h1>Game Components:</h1>
+<h1>Game Rules:</h1>
 
 <h2>Cards:</h2>
 <ul>
